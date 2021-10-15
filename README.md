@@ -2,10 +2,10 @@
 
 ## О себе
 
-- Хочу активно развиваться в Web разработке
+- Активно развиваться в Web разработке
 - Ищу интересные проекты
 - Планирую изучить <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" height="22"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql" height="22"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux" height="22"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" height="22"> NextJS или NestJS и другие полезные инструменты
-- Хочу писать чистый и понятный код
+- Стараюсь писать чистый и понятный код
 
 ## Мой стек
 
