@@ -11,6 +11,14 @@
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="typescript" height="22"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="typescript" height="22"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="typescript" height="22"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="typescript" height="22"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="typescript" height="22"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="typescript" height="22"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="22"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="typescript" height="22">
 
+## Мои контакты
+
+- e-mail: aryamnov@gmail.com
+- Tel.: +7-953-888-47-32
+- telegram: @aryamnov
+- LinkedIn: [https://www.linkedin.com/in/andrey-aryamnov-86336a1b8](https://www.linkedin.com/in/andrey-aryamnov-86336a1b8)
+- [Дипломный проект по курсу Яндекс.Практикум](http://aryamnov.nomoredomains.club/)
+
 ## Моя статистика
 
 <div>
