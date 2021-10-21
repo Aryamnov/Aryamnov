@@ -17,7 +17,7 @@
 - Tel.: +7-953-888-47-32
 - telegram: @aryamnov
 - LinkedIn: [https://www.linkedin.com/in/andrey-aryamnov-86336a1b8](https://www.linkedin.com/in/andrey-aryamnov-86336a1b8)
-- [Дипломный проект по курсу Яндекс.Практикум](aryamnov.ru)
+- [Дипломный проект по курсу Яндекс.Практикум](https://aryamnov.ru)
 
 ## Моя статистика
 
